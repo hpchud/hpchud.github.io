@@ -1,0 +1,11 @@
+#markdown-toc {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#markdown-toc li {
+  padding-top: 5px;
+  border-bottom-style: dotted;
+  border-bottom-width: 1px;
+}
