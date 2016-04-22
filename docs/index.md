@@ -37,7 +37,38 @@ Here you can find a list of articles that cover commonly requested help topics.
 
 ### Systems
 
+Connecting to the QGG using the web interface
+
+Connecting to the QGG using SSH
+
 <a href="/docs/how-to-use-lustre">How to use Lustre scratch space on the QGG</a>
+
+
+### Linux and Job Scheduling
+
+Linux basics
+
+PBS cluster basics
+
+Other essential knowledge (modules, X Windows)
+
+### Applications
+
+MPI Native Parallel
+
+Windows applications on Condor
+
+Fluent
+
+openFOAM
+
+CFX
+
+Maxwell
+
+COMSOL
+
+MATLAB
 
 
 </div>
