@@ -29,8 +29,8 @@ title: HPC at the University of Huddersfield ~ QueensGate Grid
     <div class="thumbnail">
       <div class="caption">
         <h3>Research Group</h3>
-        <p>Information about our research group, areas of interest and what we are doing.</p>
-        <p><a href="/about/" class="btn btn-default" role="button">Find out more</a></p>
+        <p>Information about our HPC Research Group, areas of interest and what we are doing.</p>
+        <p><a href="/research/" class="btn btn-default" role="button">Find out more</a></p>
       </div>
     </div>
   </div>
@@ -55,7 +55,8 @@ title: HPC at the University of Huddersfield ~ QueensGate Grid
 </div>
 
 
-## Latest news
+<a class="twitter-timeline" href="https://twitter.com/hpcrc" data-widget-id="723485854459662336" width="100%">Tweets by @hpcrc</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 <script>
 $('.flyer>span:not(:first-child)').hide();

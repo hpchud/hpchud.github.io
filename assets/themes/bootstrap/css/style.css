@@ -4,8 +4,20 @@
     margin: 0px;
 }
 
-#markdown-toc li {
+ul#markdown-toc li {
   padding-top: 5px;
   border-bottom-style: dotted;
   border-bottom-width: 1px;
+}
+
+ul#markdown-toc ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul#markdown-toc ul li {
+    border-bottom-style: none;
+    border-top-style: dotted;
+    border-top-width: 1px;
 }

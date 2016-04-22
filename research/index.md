@@ -23,7 +23,11 @@ weight: 3
 <div class="col-md-10" markdown="1">
 
 
-# Research
+# HPC Research Group
+
+More information about the HPC Research Group at the University of Huddersfield can be found on the main website
+
+<a href="http://www.hud.ac.uk/research/researchcentres/hpcrg/">http://www.hud.ac.uk/research/researchcentres/hpcrg/</a>
 
 
 </div>
