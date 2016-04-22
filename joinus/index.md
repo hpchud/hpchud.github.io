@@ -27,9 +27,17 @@ weight: 4
 
 # Citing QGG
 
-# Forms to register account
+By using the QGG you agree to credit the HPC Centre, The University of Huddersfield and The Queensgate Grid in any literature, publication or thesis that results from the computations executed on the system.
 
+# How to register an account
 
+### Please note for students and PGRs
+
+Students and PGRs will need to get approval from their Project Tutor or Research Advisor in order to get an account on the QGG.
+
+### Online registration
+
+Click here to start
 
 </div>
 </div>
