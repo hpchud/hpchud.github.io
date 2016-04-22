@@ -138,7 +138,7 @@ module load mpi/openmpi
 nprocs=`wc -l $PBS_NODEFILE | awk '{ print $1 }'`
 
 # run through the mpirun launcher
-mpirun -np $nprocs -machinefile $PBS_NODEFILE ./hello
+mpirun -np $nprocs -machinefile $PBS_NODEFILE ./hello.exe
 ```
 
 *Modified*
