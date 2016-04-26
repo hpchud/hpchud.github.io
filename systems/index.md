@@ -27,7 +27,7 @@ weight: 2
 
 ## Service Status
 
-<div class="alert alert-danger" role="alert">All QGG services are down for essential storage server maintenance. Updated: 13:10 22/04/16</div>
+<div class="alert alert-success">No issues or planned maintenance. Updated: 13:10 25/04/16</div>
 
 ## Linux clusters
 

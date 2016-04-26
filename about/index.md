@@ -37,11 +37,11 @@ HPC-RC is the High Performance Computing (HPC) Resource Centre; A one-stop-shop 
 
 ## Staff
 
-- Josh
-- Shuo
-- Matthew
-- Andrei
-- Hamza
+- Josh Higgins
+- Shuo Liang
+- Matthew Newall
+- Andrei Dafinoiu
+- Hamza Aagela
 
 </div>
 </div>

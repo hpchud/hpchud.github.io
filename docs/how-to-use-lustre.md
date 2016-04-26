@@ -71,19 +71,9 @@ The Lustre provides a `Metadata server`, which directs the client to read and wr
 
 The Lustre scratch space is mounted under `/scratch`.
 
-Inside this directory, there are two more directories: `/scratch/sol` and `/scratch/universe`. We will come back to those in a moment.
+Inside the `/scratch/universe` folder, you will find your username, e.g. `/scratch/universe/u1056048`. This is your scratch space - it has the same permissions as your home folder.
 
-At the 3rd level directory, you will find your username, e.g. `/scratch/universe/u1056048`. This is your scratch space - it has the same permissions as your home folder.
-
-### sol or universe?
-
-Inside both the `/scratch/sol` and `/scratch/universe` directories, you will find a directory with your username that you can use for scratch space. They are just two different folders that both reside on the same Lustre filesystem. However, the distribution policy for the files you save in each one is different.
-
-The Sol cluster is geographically separated from the rest of the QGG. Therefore, a storage server is also positioned next to Sol. Inside the `/scratch/sol` directory, Lustre will prefer to place your files on the storage server next to Sol. This avoids the long communication distance.
-
-If you plan to use Sol and require the best storage performance, use the `/scratch/sol/<username>` folder. Otherwise, or if you do not care, use the `/scratch/universe/<username>` folder.
-
-#### In summary, unless you are using Sol, the path to your scratch space is `/scratch/universe/<username>/`.
+#### In summary, the path to your scratch space is `/scratch/universe/<username>/`.
 
 
 ## How to use it

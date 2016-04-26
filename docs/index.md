@@ -41,7 +41,7 @@ Connecting to the QGG using the web interface
 
 Connecting to the QGG using SSH
 
-<a href="/docs/how-to-use-lustre">How to use Lustre scratch space on the QGG</a>
+<a href="/docs/how-to-use-lustre.html">How to use Lustre scratch space on the QGG</a>
 
 
 ### Linux and Job Scheduling
