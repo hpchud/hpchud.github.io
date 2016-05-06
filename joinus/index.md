@@ -37,7 +37,7 @@ Students and PGRs will need to get approval from their Project Tutor or Research
 
 ### Online registration
 
-Click here to start
+Coming soon.
 
 </div>
 </div>

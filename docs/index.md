@@ -48,7 +48,7 @@ Connecting to the QGG using SSH
 
 Linux basics
 
-PBS cluster basics
+<a href="/docs/pbs-cluster-basics.html">PBS cluster basics</a>
 
 Other essential knowledge (modules, X Windows)
 
