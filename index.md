@@ -25,6 +25,12 @@ title: HPC at the University of Huddersfield ~ QueensGate Grid
 </div>
 
 <div class="row">
+  <div class="col-md-12">
+    
+  </div>
+</div>
+
+<div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <div class="caption">

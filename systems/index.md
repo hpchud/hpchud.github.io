@@ -27,7 +27,13 @@ weight: 2
 
 ## Service Status
 
-<div class="alert alert-success">No issues or planned maintenance. Updated: 13:10 25/04/16</div>
+<div class="alert alert-warning">No external access is currently available through the bellatrix node. Updated 19/12/16</div>
+
+## Visualisation Suite
+
+The HPC visualisation and video conferencing suite is managed by us on behalf of the HPC Research Group. The suite is equipped with 3x 70" 3D displays, supports video conferencing over IP, and has a direct link with the Nikon X-ray Tomography lab.
+
+<a class="btn btn-default" href="/systems/booking.html" role="button">Book this room</a>
 
 ## Linux clusters
 

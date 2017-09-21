@@ -50,6 +50,8 @@ Linux basics
 
 <a href="/docs/pbs-cluster-basics.html">PBS cluster basics</a>
 
+<a href="/docs/best-scheduling-placement.html">Getting the best scheduling placement</a>
+
 Other essential knowledge (modules, X Windows)
 
 ### Applications

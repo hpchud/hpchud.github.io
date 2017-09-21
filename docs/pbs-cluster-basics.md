@@ -168,6 +168,5 @@ To delete a job from the Batch system the `qdel` command can be used. Supply the
 
 The `showq` command will show the scheduler status. This allows you to see other jobs that are running on the system and the total resources in use and available.
 
-
 </div>
 </div>
